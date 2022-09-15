@@ -31,3 +31,19 @@
 
 <b>How and when will you escalate the conflict if your resolution attempts are unsuccessful?</b>
 * If resolution attempts are unsuccessful team member will escalate the conflict to instructor.
+                                                                 
+                                                                 Communication Plan
+<b>What hours will you be available to communicate?</b>
+
+<b>What platforms will you use to communicate (ie. Slack, phone …)?</b>
+
+<b>How often will you take breaks?</b>
+
+<b>What is your plan if you start to fall behind?</b>
+
+<b>How will you communicate after hours and on the weekend?</b>
+
+<b>What is your strategy for ensuring everyone’s voice is heard?</b>
+
+<b>How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?</b>
+
