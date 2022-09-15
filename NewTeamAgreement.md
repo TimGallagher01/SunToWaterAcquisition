@@ -59,20 +59,20 @@ Team Agreement</hx>
                                                                      Work Plan
                                                                           
 <b>How you will identify tasks, assign tasks, know when they are complete, and manage work in general?</b>
-
+* Link to the shared doc in your project plan.
 
 <b>What project management tool will be used? </b>
 
                                                                      Git Process
                                                                         
 <b>What components of your project will live on GitHub?</b>
-
+* Code, SLideshow, and Cooperation Plan
 <b>How will you share the repository with your teammates?</b>
-
+* GitHub invitation
 <b>What is your Git flow?</b>
-
+* Work on it everyday during class hours together
 <b>Will you be using a PR review workflow? If so, consider:</b>
-
+* If so, consider:Will be working together at the same time so there is no need for PR.
 <b>How many people must review a PR?</b>
 
 <b>Who merges PRs?</b>
