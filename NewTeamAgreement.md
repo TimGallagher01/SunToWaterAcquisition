@@ -1,7 +1,7 @@
 Names: Tim Gallagher & Shila Williams
 
 # Ops301Project2
-<hx>Team Agreement</hx>
+Team Agreement</hx>
 
                                                                 Cooperation Plan
 
@@ -56,14 +56,14 @@ Names: Tim Gallagher & Shila Williams
 <b>How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?</b>
 * No disrepect and negative speaking towards each other.
 
-                                                                          Work Plan
+                                                                     Work Plan
                                                                           
 <b>How you will identify tasks, assign tasks, know when they are complete, and manage work in general?</b>
 
 
 <b>What project management tool will be used? </b>
 
-                                                                        Git Process
+                                                                     Git Process
                                                                         
 <b>What components of your project will live on GitHub?</b>
 
