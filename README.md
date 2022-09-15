@@ -4,15 +4,16 @@
                                                                 Cooperation Plan
 
 <b>What are the key strengths of each person on the team?</b>
-* Tim has a background in personal finance and Shila has a background in social work.Both individual are fast learner and have a passion of technology.
+* Tim has a background in personal finance and Shila has a background in social work. Both individuals are fast learner and have a passion of technology.
   
 <b>How can you best utilize these strengths in the execution of your project?</b>
-* Both team members possesses great communication. Shila has the ablity to empathize with the customer. While Tim brings the ablitly to see the bigger picture.
+* Both team members possess great communication. Shila can empathize with the customer. While Tim brings the ability to see the bigger picture.
 
 <b>In which professional competencies do you each want to develop greater strength?</b>
-* Tim- wants the ablity to write and understand code better. Shila would like to grasp the understanding of social engineering. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?Communicate with each other and take things step by step.
+* Tim- wants the ablity to write and understand code better. Shila would like to grasp the understanding of social engineering. 
 
 <b>Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?</b>
+* Communicate with each other and take things step by step.
 
                                                                   Conflict Plan
                                                                   
