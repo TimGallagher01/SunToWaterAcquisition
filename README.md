@@ -1,3 +1,5 @@
+Shila Williams & Tim Gallagher
+
 Scenario A: SunToWater
 
 Your team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition, SunToWater. SunToWater's mission is to make water-from-air drinking water more accessible to families. This ecological, energy-conversion focus aligns well with the mission of GlobeX, but unfortunately, its IT systems do not.
