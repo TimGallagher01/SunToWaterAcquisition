@@ -12,7 +12,7 @@ $mygateway = read-host -prompt 'Please enter the Default Gateway (i.e. 192.168.5
 
 New-NetIPAddress -InterfaceIndex (Get-NetAdapter).InterfaceIndex -IPAddress $myip -PrefixLength $mysubnet -DefaultGateway $mygateway
 
-Set-DnsClientServerAddress -InterfaceInde (Get-NetAdapter).InterfaceIndex -ServerAddresses $Myip
+Set-DnsClientServerAddress -InterfaceIndex (Get-NetAdapter).InterfaceIndex -ServerAddresses $Myip
 
 Install-windowsfeature -name AD-Domain-Services -IncludeManagementTools
 
