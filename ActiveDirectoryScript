@@ -28,3 +28,7 @@ Import-csv c:\s2w-OU.csv | new-ADOrganizationalUnit -passthru
 $password = (convertto-securestring -asplaintext "PassW0rd!" -force)
 
 Import-CSV c:\s2w-users.csv | new-aduser -password $password
+
+#removal 
+#remove-netipaddress -interfacealias 'ethernet' -confirm:$false
+#remove-netroute -interfaealias 'ethernet' -confirm:$false
