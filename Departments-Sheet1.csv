@@ -1,0 +1,8 @@
+Path,Display Name,Name,City,State,Description,Country
+"DC=SuntoWater,DC=com",Sun To Water HQ,Department,St. Louis,MO,Main Sun to Water Office,US
+"OU=Department,DC=SuntoWater,DC=com",Marketing Department,Marketing,St. Louis,MO,Marketing Department of Sun to Water,US
+"OU=Department,DC=SuntoWater,DC=com",AccountFinance Department,AccountFinance,St. Louis,MO,AccountingFinance Department of Sun to Water,US
+"OU=Department,DC=SuntoWater,DC=com",Human Resources Department,HumanResources,St. Louis,MO,HR Department of Sun to Water,US
+"OU=Department,DC=SuntoWater,DC=com",IT Department,InformationTechnology,St. Louis,MO,IT Department of Sun to Water,US
+"OU=Department,DC=SuntoWater,DC=com",Security Department,Security,St. Louis,MO,Security Department of Sun to Water,US
+"OU=Department,DC=SuntoWater,DC=com",Management Department,Management,St. Louis,MO,Management Department of Sun to Water,US

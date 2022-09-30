@@ -1,0 +1,32 @@
+Path,Givenname,Surname,City,State,Description,Country,samAccountName,Name
+"OU=Marketing,OU=department,DC=SuntoWater,DC=com",Peter,Gibbons,St. Louis,MO,CMO,US,PeterGibbons,PeterGibbons
+"OU=Marketing,OU=department,DC=SuntoWater,DC=com",Ron,Weasley,St. Louis,MO,"Sr. Manager, Paid Media",US,RonWeasley,RonWeasley
+"OU=Marketing,OU=department,DC=SuntoWater,DC=com",Harry,Potter,St. Louis,MO,"Sr. Manager, SEO",US,HarryPotter,HarryPotter
+"OU=Marketing,OU=department,DC=SuntoWater,DC=com",Hermione,Granger,St. Louis,MO,"Sr. Manager, Communications",US,HerminoneGranger,HerminoneGranger
+"OU=AccountFinance,OU=department,DC=SuntoWater,DC=com",Bob,Slydell,St. Louis,MO,CFO,US,BobSlydell,BobSlydell
+"OU=AccountFinance,OU=department,DC=SuntoWater,DC=com",Luca,Pacioli,St. Louis,MO,Senior Aduitor,US,LucaPacioli,LucaPacioli
+"OU=AccountFinance,OU=department,DC=SuntoWater,DC=com",Angela,Martin,St. Louis,MO,Senior Accountant,US,AngelaMartin,AngelaMartin
+"OU=AccountFinance,OU=department,DC=SuntoWater,DC=com",Kevin,Malone,St. Louis,MO,Junior Accountant,US,KevinMalone,KevinMalone
+"OU=AccountFinance,OU=department,DC=SuntoWater,DC=com",Oscar,Martinez,St. Louis,MO,AP Administrator,US,OscarMartinez,OscarMartinez
+"OU=HumanResources,OU=department,DC=SuntoWater,DC=com",Minerva,McGonagall,St. Louis,MO,Exec Vp - HR,US,MinervaMcGonagall,MinervaMcGonagall
+"OU=HumanResources,OU=department,DC=SuntoWater,DC=com",Sybill,Trelawney,St. Louis,MO,"Director, Talent Acquisition",US,SybillTrelawney,SybillTrelawney
+"OU=HumanResources,OU=department,DC=SuntoWater,DC=com",Remus,Lupin,St. Louis,MO,"Manager, Training and Development",US,RemusLupin,RemusLupin
+"OU=HumanResources,OU=department,DC=SuntoWater,DC=com",Severus,Snape,St. Louis,MO,HR Business Partner,US,SeverusSnape,SeverusSnape
+"OU=InformationTechnology,OU=department,DC=SuntoWater,DC=com",Bade,Habib,St. Louis,MO,CIO,US,BadeHabib,BadeHabib
+"OU=InformationTechnology,OU=department,DC=SuntoWater,DC=com",Samir,Nagheenanajar,St. Louis,MO,CTO,US,SamirNagheenanajar,SamirNagheenanajar
+"OU=InformationTechnology,OU=department,DC=SuntoWater,DC=com",John,Dorian,St. Louis,MO,Senior Engineer,US,JohnDorian,JohnDorian
+"OU=InformationTechnology,OU=department,DC=SuntoWater,DC=com",Elliot,Reid,St. Louis,MO,Frontend Developer,US,ElliotReid,ElliotReid
+"OU=InformationTechnology,OU=department,DC=SuntoWater,DC=com",Chris,Turk,St. Louis,MO,Backend Developer,US,ChrisTurk,ChrisTurk
+"OU=department,DC=SuntoWater,DC=com",Bill,Lumbergh,St. Louis,MO,CEO,US,BillLumbergh,BillLumbergh
+"OU=Security,OU=department,DC=SuntoWater,DC=com",Courtney,Hans,St. Louis,MO,CISO,US,CourtneyHans,CourtneyHans
+"OU=Security,OU=department,DC=SuntoWater,DC=com",Brian,Krebs,St. Louis,MO,"Director, Information Security",US,BrianKrebs,BrianKrebs
+"OU=Security,OU=department,DC=SuntoWater,DC=com",Perry,Cox,St. Louis,MO,Defensive Security Team,US,PerryCox,PerryCox
+"OU=Security,OU=department,DC=SuntoWater,DC=com",Bob,Kelso,St. Louis,MO,Offensive Security Team,US,BobKelso,BobKelso
+"OU=Security,OU=department,DC=SuntoWater,DC=com",Milton,Waddams,St. Louis,MO,Facilities Manager,US,MiltonWaddams,MiltonWaddams
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Michael,Scott,St. Louis,MO,COO,US,MichaelScott,MichaelScott
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Dwight,Schrute,St. Louis,MO,"Divisional VP, Retail West",US,DwightSchrute,DwightSchrute
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Andy,Bernard,St. Louis,MO,"Regional Manager, Washington, Idaho, Montana",US,AndyBernard,AndyBernard
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Phyllis,Lapin-Vance,St. Louis,MO,"Regional Manager, California & Oregon",US,PhyllisLapin-Vance,PhyllisLapin-Vance
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Jim,Halpert,St. Louis,MO,"Divisional VP, Retail East",US,JimHalpert,JimHalpert
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Kelly,Kapoor,St. Louis,MO,"Regional Manager, New York, New Jersey, Connecticut",US,KellyKapoor,KellyKapoor
+"OU=Management,OU=department,DC=SuntoWater,DC=com",Meredith,Palmer,St. Louis,MO,"Regional Manager, Florida, Georgia, Carolinas",US,MeredithPalmer,MeredithPalmer
